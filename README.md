@@ -1,5 +1,6 @@
 ![CyberTCO](assets/cybertco-banner.png)
 
+![Social Preview](assets/cybertco-social.png)
 # CyberTCO — Cybersecurity Budgeting, Costing & Forecast
 
 A GitHub-ready package to plan **CAPEX/OPEX**, forecast multi-year spend, compute **TCO/NPV/ROI**, and generate reports & charts for a cybersecurity program.
@@ -59,4 +60,3 @@ MIT
 
 ---
 
-![Social Preview](assets/cybertco-social.png)
