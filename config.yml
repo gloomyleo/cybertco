@@ -1,0 +1,10 @@
+horizon_years: 5
+base_year: 2025
+inflation_rate: 0.03
+discount_rate: 0.08
+apply_inflation_to_opex: true
+apply_inflation_to_capex: false
+scenarios:
+  include_headcount: true
+  include_tools: true
+  include_projects: true

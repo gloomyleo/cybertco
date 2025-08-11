@@ -1,0 +1,4 @@
+project_id,name,category,start_year,end_year,expected_annual_benefit
+P1,Perimeter Hardening,Network,2025,2029,120000
+P2,Threat Detection,SIEM/EDR,2025,2029,300000
+P3,Incident Response Uplift,Operations,2025,2029,220000

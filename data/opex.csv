@@ -1,0 +1,4 @@
+id,item,start,end,amount,freq,project_id,kind
+O1,EDR Subscription,2025-01,2027-12,180000,yearly,P2,subscription
+O2,SOC Headcount,2025-01,2029-12,450000,yearly,P3,headcount
+O3,Cloud Security Posture Mgmt,2025-03,2029-12,15000,monthly,P2,subscription

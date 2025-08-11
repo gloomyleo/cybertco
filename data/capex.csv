@@ -1,0 +1,3 @@
+id,item,date,amount,useful_life_years,project_id
+C1,Firewall Appliances,2025-02,250000,5,P1
+C2,SIEM Storage Expansion,2026-06,120000,4,P2

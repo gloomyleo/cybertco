@@ -1,0 +1,9 @@
+{
+  "base_year": 2025,
+  "horizon_years": 5,
+  "tco": 4271117.56,
+  "total_benefit": 3200000.0,
+  "npv": -988262.48,
+  "roi": -0.2508,
+  "payback_year": null
+}
