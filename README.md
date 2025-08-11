@@ -12,6 +12,8 @@ A GitHub-ready package to plan **CAPEX/OPEX**, forecast multi-year spend, comput
 - CLI: `cybertco` for one-command forecasting & reporting.
 - Ready for GitHub Actions CI and community contributions.
 
+> **CyberTCO** is your cybersecurity budgeting intelligence—plan CAPEX & OPEX, forecast multi‑year spend, and measure ROI, NPV, and payback. With ready‑to‑use templates, CLI simplicity, and automated charts, it turns raw numbers into board‑ready insights for smarter security investments.
+
 ## Quickstart
 ```bash
 # 1) Create venv & install
@@ -53,3 +55,8 @@ See [`docs/metrics.md`](docs/metrics.md) for column details & formulas.
 
 ## License
 MIT
+
+
+---
+
+![Social Preview](assets/cybertco-social.png)
